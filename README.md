@@ -71,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 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
+
+_54ad86eee37503486c616472bf1b2b6f.ogsmero.emma.com. CNAME _9956fbb62c058658112a4071cacb2a59.mntkzmhvxg.acm-validations.aws.
