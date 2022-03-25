@@ -1,9 +1,19 @@
 import React from 'react';
+import Header from '../Header/Header';
+import List from '../List/List';
 
 const App = () => {
     return(
         <div className='application'>
-            new Application/
+            <Header />
+            <div className='scroll-list'>
+                <List />
+                <List />
+                <List />
+                <List />
+                <List />
+                <List />
+            </div>
         </div>
     );
 }
